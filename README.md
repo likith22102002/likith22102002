@@ -19,7 +19,7 @@ I'm an Advanced Java Developer currently working at **T Machine Software Solutio
 
 ## 📂 Featured Projects
 🔹 [Help Desk Ticketing System](https://github.com/likith22102002/Help-Desk-Support-System)  
-🔹 [Online Food Delivery System](https://github.com/likith22102002/online-food-delivery)  
+🔹 [Online Food Delivery System](https://github.com/likith22102002/MicroServices )  
 🔹 [Healthcare Appointment System](https://github.com/likith22102002/healthcare-appointment-system)
 
 ---
